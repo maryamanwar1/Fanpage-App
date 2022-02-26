@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "892182386390",
+    "project_id": "fanpage-df03a",
+    "storage_bucket": "fanpage-df03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892182386390:android:63f2673b1e947af0799b77",
+        "android_client_info": {
+          "package_name": "com.creationdriven.truthfan2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892182386390-8t79080s1t3i2jeu8q025j34c8p17sc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCik8ZsqFdqcrgLQUJVFj2BPxH4Zz1fz2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892182386390-8t79080s1t3i2jeu8q025j34c8p17sc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892182386390-rl5hfkh4d53vl8a9lmqe0o2vul9r7fng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creationdriven.truthfan2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
